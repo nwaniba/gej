@@ -1,0 +1,19 @@
+body{
+    width: 960px;
+    margin: 0, auto;
+padding: 100px;
+text-align: justify;
+font-style: normal;
+
+}
+img{
+float: left;
+      margin: o 20px;
+}
+h1{
+    text-align: left;
+    font-size: 40px;
+}
+p{
+    font-size: 23px;
+}
